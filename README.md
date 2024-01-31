@@ -18,20 +18,19 @@
 
 As i am plsql developer I am familier with skills:
 
-- PLSQL
+* PL/SQL
 
-  - PLSQL <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="20" align="center"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="20" align="center">
-  - APEX <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20" align="center">
+  - PL/SQL 
+  - APEX
  
 
 * SQL
 
-  - SQL <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="20" align="center">
+  - SQL
 
 * SQL PERFORMANCE TUNING
 
-  - Java <img src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" width="20" align="center">
-  - SQL_TUNING <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20" align="center">
-  - Python
+  - Java
+  - SQL_TUNING 
 
 
