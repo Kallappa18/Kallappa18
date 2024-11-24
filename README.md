@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am Kallappa Tippanagoudra a PL/SQL Developer! <img src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif" width="20" align="center">
+## I am Kallappa Tippanagoudra a ORACLE HFM TECHNICAL CONSULTANT! <img src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif" width="20" align="center">
 
 ### <img src="https://media.giphy.com/media/lOfSzpPeMb9gF2OJ5O/giphy.gif" width="12" align="center"> Navi Mumbai, India
 
@@ -14,23 +14,24 @@
 
 </div>
 
-### I work on SQL AND PL/SQL Projects
+### I work on HFM Project
 
-As i am plsql developer I am familier with skills:
+As i am ORACLE HFM TECHNICAL CONSULTANT and my skills are:
 
-* PL/SQL
 
-  - PL/SQL 
-  - APEX
- 
+  Oracle EPM Hyperion
+  
+  -Oracle Hyperion Financial Management
+  -FDM Enterprise Edition
+  -Hyperion Financial Reports
+  -Oracle Hyperion Shared Services
+  -Excel Smart View
 
-* SQL
-
-  - SQL
-
-* SQL PERFORMANCE TUNING
+  Programming Languages and Database
 
   - Java
-  - SQL_TUNING 
+  - Python
+  - SQL
+  - PLSQL
 
 
