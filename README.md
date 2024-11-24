@@ -14,20 +14,20 @@
 
 </div>
 
-### I work on HFM Project
+### I have worked on HFM Projects
 
-As i am ORACLE HFM TECHNICAL CONSULTANT and my skills are:
+I am ORACLE HFM TECHNICAL CONSULTANT and my skills are as follows:
 
 
-  Oracle EPM Hyperion
-  
-  -Oracle Hyperion Financial Management
-  -FDM Enterprise Edition
-  -Hyperion Financial Reports
-  -Oracle Hyperion Shared Services
-  -Excel Smart View
+  Oracle EPM Hyperion Suite:
 
-  Programming Languages and Database
+  - Oracle Hyperion Financial Management
+  - FDM Enterprise Edition
+  - Hyperion Financial Reports
+  - Excel Smart View
+  - Oracle Hyperion Shared Services
+
+  Programming Languages and Database:
 
   - Java
   - Python
