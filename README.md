@@ -19,13 +19,14 @@
 I am ORACLE HFM TECHNICAL CONSULTANT and my skills are as follows:
 
 
-  Oracle EPM Hyperion Suite:
+  Oracle EPM:
 
   - Oracle Hyperion Financial Management
   - FDM Enterprise Edition
   - Hyperion Financial Reports
   - Excel Smart View
   - Oracle Hyperion Shared Services
+  - ORACLE EDMCS
 
   Programming Languages and Database:
 
