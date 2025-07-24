@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am Kallappa Tippanagoudra a ORACLE HFM TECHNICAL CONSULTANT! <img src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif" width="20" align="center">
+## Specialized in ORACLE HFM and FDMEE,Working as CONSULTANT! <img src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif" width="20" align="center">
 
 ### <img src="https://media.giphy.com/media/lOfSzpPeMb9gF2OJ5O/giphy.gif" width="12" align="center"> Navi Mumbai, India
 
